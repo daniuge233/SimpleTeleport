@@ -33,7 +33,7 @@
 - __Disadvantages: only simplified Chinese is supported__
 ## How to use:
 - Put the plugin jar file into the plugins folder<br/> the plugin will be loaded automatically.
-### Instruction help:</br>
+### Commands:</br>
 ### /tpp:
 - The main instruction of the project<br/>
 #### Format:
