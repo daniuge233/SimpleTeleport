@@ -1,0 +1,12 @@
+name: SimpleTeleport
+version: 1.1
+author: daniuge233
+main: org.ddxgbc.SimpleTeleport.main
+
+commands:
+  rt:
+    usage: /<command>
+    description: A command for RandomTeleport.
+  tpp:
+    usage: /<command> <player/a/r>
+    description: A command for teleport
