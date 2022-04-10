@@ -25,7 +25,7 @@
 
 ### English version(Machine turnover):
 # SimpleTeleport <br/> ——Minecraft server teleport plugin
-- This is a personal developed lightweight server delivery plug-in for my world.
+- This is a personal developed lightweight server delivery for Minecraft.
 ## Project introduction:
 - Realization function: it can realize the function of players teleport each other. (players need to send application and consent)
 - JDK version: jdk1 8.0_181
