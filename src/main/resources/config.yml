@@ -1,0 +1,31 @@
+#这是SimpleTeleport插件的配置文件
+#本文件主要记录语言配置
+#This is the config file of SimpleTeleport.
+#Here are all the language config.
+
+language:
+  LoadSuccess: "§b[SimpleTeleport] §d插件成功加载！"    #此项更改的是插件加载时的控制台输出。
+
+  TypeIsPlayer: "§c您必须是一个§a玩家§c!"                #此项更改的是当发送指令的人不是玩家时的消息
+
+  ReadyTeleport: "§b已经准备好,三秒后开始传送！"           #这两个是传送被接受，开始时的消息
+  RandomSuccess: "§a您已被传送至" #传送结束后的消息
+
+  SendSlaveRequestComplete: "§b已发送请求！"             #发送请求成功
+
+  TPtoYou: "§a想要来你这里看看"                           #邀请和请求
+  YouTPto: "§a想要你到他那里"
+
+  TypeIn: "§b输入"                                      #指令帮助
+  Accept: "§b接受"
+  Refuse: "§b拒绝"
+
+  NotOnline: "§b您选择的玩家不在线！" #参数错误或不在线的提示
+  ParameterError: "§b参数错误或玩家不存在"
+
+  OAcceptRequest: "§b对方接受了你的请求，三秒后开始传送~"     #接受或拒绝提示
+  AcceptRequest: "§b接受成功，三秒后传送~"
+  ORejectRequest: "§b对方拒绝了你的请求"
+  RejectRequest: "§b拒绝成功~"
+
+  NoRequest: "§b还没有任何人想找你哦~"                     #没有传送请求时
