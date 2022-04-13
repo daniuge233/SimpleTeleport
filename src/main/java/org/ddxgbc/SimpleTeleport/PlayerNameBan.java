@@ -6,13 +6,12 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 
 public class PlayerNameBan implements Listener {
-    
     @EventHandler
     public void BanName(PlayerJoinEvent e){
         Player player = e.getPlayer();
         String PlayerName = player.getName();
         if (PlayerName.equals("a") || PlayerName.equals("h") || PlayerName.equals("r")){
-            player.kickPlayer(PlayerName);
+            player.kickPlayer("§bYour name doesn't comply");
         }
     }
 }
