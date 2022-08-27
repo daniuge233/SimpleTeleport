@@ -27,7 +27,7 @@
 - @daniuge233
 <br/><br/><br/>
 
-### English version(Machine turnover):
+### English version(Machine translate):
 # SimpleTeleport <br/> ——Minecraft server teleport plugin
 - This is a personal developed lightweight server delivery for Minecraft.
 ## Project introduction:
